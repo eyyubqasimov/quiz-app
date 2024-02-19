@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Which is the largest animal in the world?",
+      "answers": [
+        { "text": "Shark", "correct": false },
+        { "text": "Blue Whale", "correct": true },
+        { "text": "Elephant", "correct": false },
+        { "text": "Giraffe", "correct": false }
+      ]
+    },
+      
+    {
+      "question": "Which is the smallest country in the world?",
+      "answers": [
+        { "text": "Vatican city", "correct": true },
+        { "text": "Bhutan", "correct": false },
+        { "text": "Nepal", "correct": false },
+        { "text": "Shri Lanka", "correct": false }
+      ]
+    },
+
+    {
+        "question": "Which is the largest desert in the world?",
+        "answers": [
+          { "text": "Khalari", "correct": false },
+          { "text": "Gobi", "correct": false },
+          { "text": "Sahara", "correct": false },
+          { "text": "Antarctica", "correct": true }
+        ]
+    },
+
+    {
+        "question": "Who is the best player in the world of all time?",
+        "answers": [
+          { "text": "Messi", "correct": true },
+          { "text": "R9", "correct": false },
+          { "text": "CR7", "correct": false },
+          { "text": "Maradona", "correct": false }
+        ]
+    },
+
+    {
+      "question": "Which is the best country in the world?",
+      "answers": [
+        { "text": "Russia", "correct": false },
+        { "text": "Azerbaijan", "correct": true },
+        { "text": "USA", "correct": false },
+        { "text": "France", "correct": false }
+      ]
+    }
+  ]
+  
